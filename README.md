@@ -1,4 +1,11 @@
-### Hi there 👋
+# ALEXIS KEN ALVAREZ 
+![AlexisKen](https://i.imgur.com/iYrDWy2.png)
+
+### I currently focus on web development, currently more of a front-end developer but I'm studying PHP and Mysql for backend. I also plan to be a software engineer.
+### Current language I use for programming is Java.
+
+
+
 
 <!--
 **AlexisKenAlvarez/AlexisKenAlvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
