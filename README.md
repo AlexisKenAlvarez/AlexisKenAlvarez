@@ -1,5 +1,5 @@
 
-<h1>Alexis Ken Alvarez</h1> <img src="https://i.imgur.com/iYrDWy2.png" width="50">
+<h1>Alexis Ken Alvarez</h1> <img src="https://i.imgur.com/iYrDWy2.png" width="150">
 
 ### I currently focus on web development, currently more of a front-end developer but I'm studying PHP and Mysql for backend. I also plan to be a software engineer.
 ### Current language I use for programming is Java.
