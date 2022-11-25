@@ -1,8 +1,7 @@
 
-<h1>Alexis Ken Alvarez</h1> <img src="https://i.imgur.com/iYrDWy2.png" width="350" align="right">
-
-### I currently focus on web development, currently more of a front-end developer but I'm studiyng MERN stack to be a full stack developer.
-### Current language I use for programming is Javascript.
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexisKenAlvarez)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisKenAlvarez)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=AlexisKenAlvarez)
 
 
 
