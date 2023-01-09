@@ -1,4 +1,4 @@
-<img align='center' src="githubBanner.jpg">
+<img align='center' src="banner.jpg">
 
 <h1 align="center">Hi 👋, I'm <a href="" target="blank">
 Alexis Ken</a></h1>
