@@ -32,7 +32,7 @@ Alexis Ken</a></h1>
 
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,ts,react,nextjs,figma,firebase,git,github.godot,js,java,mysql,mongodb,nodejs,planetscale,prisma,py,redux,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,ts,react,nextjs,figma,firebase,git,github,godot,js,java,mysql,mongodb,nodejs,planetscale,prisma,py,redux,vite,vscode)](https://skillicons.dev)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexisKenAlvarez)](https://github.com/ryo-ma/github-profile-trophy)
 
 
