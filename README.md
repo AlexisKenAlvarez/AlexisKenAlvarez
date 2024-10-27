@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="" target="blank">
 Alexis Ken</a></h1>
-<h3 align="center">Software Engineer from Philippines &#127470;&#127475</h3>
+<h3 align="center">Software Engineer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexisKenAlvarez&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
